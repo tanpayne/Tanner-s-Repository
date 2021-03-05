@@ -1,4 +1,4 @@
 
 Cool
 
-![alt text](https://tanpayne.github.io/Tanner-s-Repository/images/Spyro.jpeg)
+![a filler image](https://tanpayne.github.io/Tanner-s-Repository/images/Spyro.jpeg)
