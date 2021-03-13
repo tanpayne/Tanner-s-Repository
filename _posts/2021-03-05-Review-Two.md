@@ -1,4 +1,11 @@
+# Project:
+## Atlas of Early Printing
 
-Cool
+# Project Director: 
+## Greg Prickman
 
-![a filler image](https://tanpayne.github.io/Tanner-s-Repository/images/Spyro.jpeg)
+# Project URL:
+## http://atlas.lib.uiowa.edu/
+
+
+![a screenshot of the map, and it's basic features](https://github.com/tanpayne/Tanner-s-Repository/blob/main/images/reviewblog2sc1.PNG)
