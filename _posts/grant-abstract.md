@@ -9,4 +9,5 @@ information, and simplify the route that students will take to access and retain
 of the project is to use videos, diagrams, research papers, and other forms of scholarly information, and compile them together in a functional website 
 that will be both engaging and informative, as well as easy to digest at the high school level. The design of the project will use the original language, 
 texts that are marked, and even modern translations of the compositions in order to clarify and set up students with an arsenal of tools that can be employed
-to not only read, but also comprehend the his publications at a deeper level.
+to not only read, but also comprehend the his publications at a deeper level. The expected timeframe in which this project is suggested to be completed is about
+three to six months. The aim is to give students a better appreciation for Shakespeare and experience the works in a newand engaging way.
